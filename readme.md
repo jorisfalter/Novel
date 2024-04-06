@@ -17,4 +17,5 @@ which are also biographies to a certain extent, but for which the title made the
 
 ## sources todo 
 - my story up to now
+- mythologizing myself
 - ...
