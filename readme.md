@@ -19,7 +19,7 @@ Option: A more commercially oriented title like
 
 Which are also biographies to a certain extent, but for which the title made the difference (like Ali Abdaal said in the mfm podcast)
 
-## sources todo
+## Sources todo
 
 - my story up to now
 - mythologizing myself
