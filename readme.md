@@ -12,12 +12,12 @@ The goal is a romanticized biography like Arnold Schwarzenegger's Total Recall o
 
 Option: A more commercially oriented title like
 
-- four hour work week
-- subtle art of not giving a fuck
-- what they teach you at hbs
+- The Four Hour Work Week
+- The Subtle Art Of Not Giving A Fuck
+- What They Teach You At HBS
 - ...
 
-which are also biographies to a certain extent, but for which the title made the difference (like Ali Abdaal said in the mfm podcast)
+Which are also biographies to a certain extent, but for which the title made the difference (like Ali Abdaal said in the mfm podcast)
 
 ## sources todo
 
